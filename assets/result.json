@@ -1,0 +1,242 @@
+{
+    "images": [
+        {
+            "id": 0,
+            "file_name": "images/0.png",
+            "width": 1280,
+            "height": 800
+        },
+        {
+            "id": 1,
+            "file_name": "images/1.png",
+            "width": 1280,
+            "height": 800
+        },
+        {
+            "id": 2,
+            "file_name": "images/2.png",
+            "width": 1280,
+            "height": 800
+        },
+        {
+            "id": 3,
+            "file_name": "images/3.png",
+            "width": 1280,
+            "height": 800
+        },
+        {
+            "id": 4,
+            "file_name": "images/4.png",
+            "width": 1280,
+            "height": 800
+        },
+        {
+            "id": 5,
+            "file_name": "images/5.png",
+            "width": 1280,
+            "height": 800
+        },
+        {
+            "id": 6,
+            "file_name": "images/6.png",
+            "width": 1280,
+            "height": 800
+        },
+        {
+            "id": 7,
+            "file_name": "images/7.png",
+            "width": 1280,
+            "height": 800
+        },
+        {
+            "id": 8,
+            "file_name": "images/8.png",
+            "width": 1280,
+            "height": 800
+        }
+    ],
+    "annotations": [
+        {
+            "id": 0,
+            "image_id": 0,
+            "category_id": 0,
+            "bbox": [
+                673,
+                254,
+                7,
+                12
+            ]
+        },
+        {
+            "id": 1,
+            "image_id": 1,
+            "category_id": 1,
+            "bbox": [
+                718,
+                557,
+                14,
+                14
+            ]
+        },
+        {
+            "id": 2,
+            "image_id": 2,
+            "category_id": 2,
+            "bbox": [
+                596.0,
+                114.5,
+                75.6,
+                17.4
+            ]
+        },
+        {
+            "id": 3,
+            "image_id": 3,
+            "category_id": 3,
+            "bbox": [
+                613,
+                236,
+                45,
+                15
+            ]
+        },
+        {
+            "id": 4,
+            "image_id": 4,
+            "category_id": 4,
+            "bbox": [
+                643,
+                413,
+                9,
+                12
+            ]
+        },
+        {
+            "id": 5,
+            "image_id": 5,
+            "category_id": 5,
+            "bbox": [
+                640,
+                448,
+                76,
+                19
+            ]
+        },
+        {
+            "id": 6,
+            "image_id": 6,
+            "category_id": 6,
+            "bbox": [
+                773,
+                610,
+                9,
+                12
+            ]
+        },
+        {
+            "id": 7,
+            "image_id": 6,
+            "category_id": 7,
+            "bbox": [
+                812,
+                608,
+                10,
+                12
+            ]
+        },
+        {
+            "id": 8,
+            "image_id": 6,
+            "category_id": 8,
+            "bbox": [
+                1084,
+                22,
+                11,
+                12
+            ]
+        },
+        {
+            "id": 9,
+            "image_id": 6,
+            "category_id": 9,
+            "bbox": [
+                1260,
+                218,
+                13,
+                15
+            ]
+        },
+        {
+            "id": 10,
+            "image_id": 7,
+            "category_id": 10,
+            "bbox": [
+                651,
+                270,
+                9,
+                11
+            ]
+        },
+        {
+            "id": 11,
+            "image_id": 8,
+            "category_id": 11,
+            "bbox": [
+                725,
+                197,
+                13,
+                12
+            ]
+        }
+    ],
+    "categories": [
+        {
+            "id": 0,
+            "name": "purple_monster_icon"
+        },
+        {
+            "id": 1,
+            "name": "auto_fight_icon"
+        },
+        {
+            "id": 2,
+            "name": "MapFrameIsOpenIcon"
+        },
+        {
+            "id": 3,
+            "name": "SettingFrameIsOpenIcon"
+        },
+        {
+            "id": 4,
+            "name": "JumpNextMapIcon"
+        },
+        {
+            "id": 5,
+            "name": "IsSureDialogBtn"
+        },
+        {
+            "id": 6,
+            "name": "BackHomeIcon"
+        },
+        {
+            "id": 7,
+            "name": "RandomPointIcon"
+        },
+        {
+            "id": 8,
+            "name": "EventBtnIcon"
+        },
+        {
+            "id": 9,
+            "name": "TaskBtnIcon"
+        },
+        {
+            "id": 10,
+            "name": "BossIocn"
+        },
+        {
+            "id": 11,
+            "name": "monsterListCloseIcon"
+        }
+    ]
+}
